@@ -2,7 +2,7 @@ import google.generativeai as genai
 
 # Set your Google AI API Key here
 # Note: Apni key yahaan daalo. Yeh key secure rakhna, public nahi karna.
-genai.configure(api_key="AIzaSyA1vwcJl2_xGC7hN9HJFE60i5PluV2xjPQ")
+genai.configure(api_key="YOUR_API_KEY_HERE")
 
 # Rich system prompt to emulate Hitesh Choudhary in CoT style
 # System prompt bilkul same hai, isko change karne ki zaroorat nahi hai.
